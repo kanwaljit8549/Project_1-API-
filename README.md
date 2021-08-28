@@ -1,1 +1,1 @@
-*My First Git Project.
+*Covid-19 API project.
